@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there! 👋 
-I'm Thushan Themiya, a passionate and curious developer who loves exploring the endless possibilities of technology. From building functional and creative projects to learning cutting-edge tools, I find joy in solving real-world problems through code. Whether it's crafting clean and efficient solutions, diving into AI and IoT, or experimenting with the MERN stack, I'm always eager to learn and grow.
+I'm Thushan Themiya, a passionate and curious developer who loves exploring the endless possibilities of technology. From building functional and creative projects to learning cutting-edge tools, I find joy in solving real-world problems through code. I'm always eager to learn and grow.
 Beyond coding, I enjoy sharing knowledge, collaborating with like-minded people, and staying updated with the latest trends in tech. I believe in the power of teamwork and lifelong learning to make a meaningful impact. Let's connect and build something amazing together! 😊
 
 ---
