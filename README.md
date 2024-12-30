@@ -1,6 +1,7 @@
 # 💫 About Me:
-Hello, I'm Themiya!  
-I'm passionate about coding, learning new technologies, and solving real-world problems through programming.  
+Hi there! 👋 
+I'm Thushan Themiya, a passionate and curious developer who loves exploring the endless possibilities of technology. From building functional and creative projects to learning cutting-edge tools, I find joy in solving real-world problems through code. Whether it's crafting clean and efficient solutions, diving into AI and IoT, or experimenting with the MERN stack, I'm always eager to learn and grow.
+Beyond coding, I enjoy sharing knowledge, collaborating with like-minded people, and staying updated with the latest trends in tech. I believe in the power of teamwork and lifelong learning to make a meaningful impact. Let's connect and build something amazing together! 😊
 
 ---
 
@@ -43,9 +44,9 @@ I'm passionate about coding, learning new technologies, and solving real-world p
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=07themiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <br />
+  <br /> <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=07themiya&theme=dark&hide_border=false" alt="GitHub Streak">
-  <br />
+  <br /> <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07themiya&theme=dark&hide_border=false&layout=compact" alt="Top Languages">
 </div>
 
